@@ -1,0 +1,4 @@
+int x = 3 ; 
+String name = "sami" ;
+float num = 1.2 ; 
+x = 1.4 ; 

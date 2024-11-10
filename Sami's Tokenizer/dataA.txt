@@ -1,0 +1,6 @@
+if ( x < y ) { 
+  int k = 3 ; 
+  k = 4 ; 
+  String s = "sami" ; 
+  s = 9 ; 
+} 
